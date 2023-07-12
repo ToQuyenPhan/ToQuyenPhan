@@ -1,5 +1,6 @@
 # 💫 About Me:
-# Hi there 👋<br><br>## Hi guys ✨!!! Welcome to my Git!!! Blink blink ✨!!! 
+# Hi there 👋
+# Hi guys ✨!!! Welcome to my Git!!! Blink blink ✨!!! 
 - 😄 I'm happy when see you here and give me advices for coding!
 - 🌱 I’m currently learning programming.
 - 🔭 I’m currently at home and just learning coding for online courses.
