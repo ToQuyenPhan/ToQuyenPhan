@@ -6,7 +6,7 @@
 - 🔭 I’m currently at home and just learning coding for online courses.
 - 🤔 I’m looking for help with my code because I'm still a beginner
 - 💬 You can talk or ask me about something fun, something interesting because I like it, I like talking and sharing my knowledge.
-- 📫 Reach me on link: https://www.facebook.com/profile.php?id=100006321400254 or my email: duonglh024@gmal.com.
+- 📫 Reach me on [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100006321400254) 
 - 👯 I hope we can be friends and actively share understanding.
 - ⚡ Fun fact: I'm not a talkative person in real life but I quitely talk so much on the internet :))
 
